@@ -1,5 +1,4 @@
-# project-4-feature-engineering-model-tunig
+# Concrete Strength Prediction
 
-Project 4 
-
-Add new project
+Objective
+To predict the concrete strength using the data available in file "concrete.csv".
